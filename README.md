@@ -16,6 +16,10 @@ This repository contains a Shiny dashboard built with R to simulate a basic mana
 - ggplot2 for plotting
 - DT for interactive tables
 - dplyr for data wrangling
+- 
+### Live App
+
+🔗 [Click here to view the live dashboard](https://Zanjiran.shinyapps.io/clinic/)
 
 ## 🚀 Getting Started
 
